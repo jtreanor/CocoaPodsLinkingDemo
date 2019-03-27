@@ -10,3 +10,5 @@ This repo demonstrates a [linking issue](https://github.com/CocoaPods/CocoaPods/
 4. Change the CocoaPods version in `Gemfile` to `1.6.0.beta.2` and run `bundle update cocoapods`.
 5. Run `bundle exec pod lib lint CocoaPodsLinkingDemo.podspec --verbose` again.
 6. It should now pass with no warnings or errors.
+
+**Note:** The failure also occurs on all later versions of CocoaPods up to `1.7.0.beta.2`.
