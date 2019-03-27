@@ -1,6 +1,6 @@
 # CocoaPods Linking Demo
 
-This repo demonstrates a linking issue that was introduced between 1.6.0.beta.2 and 1.6.0.rc.1 of CocoaPods.
+This repo demonstrates a [linking issue](https://github.com/CocoaPods/CocoaPods/issues/8612) that was introduced between 1.6.0.beta.2 and 1.6.0.rc.1 of CocoaPods.
 
 ## Usage
 
